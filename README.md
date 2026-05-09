@@ -15,8 +15,6 @@
 
 I built this to learn how real teams ship code without manual SSH and `npm install` on servers. Every push and pull request is automatically tested, and the pipeline is ready to build Docker images and deploy when secrets are added.
 
-Perfect for: DevOps internships, demonstrating GitHub Actions, Docker best practices.
-
 ## Tech Stack
 
 - **Runtime:** Node.js 20.x
