@@ -91,13 +91,6 @@ To enable full CD:
 - Multi-stage Docker builds to reduce image size
 - Securing pipelines with minimal permissions
 
-## Roadmap
-
-- [ ] Add ESLint + Prettier to CI
-- [ ] Enable Docker Hub push
-- [ ] Add staging deploy to VPS
-- [ ] Add integration tests with supertest
-
 ## Author
 
 **Arshit Choubey** — Computer Science @ Bangalore
