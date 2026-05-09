@@ -102,8 +102,6 @@ To enable full CD:
 
 **Arshit Choubey** — Computer Science @ Bangalore
 - GitHub: [@arshitchoubey18](https://github.com/arshitchoubey18)
-- LinkedIn: (add your link)
-
 ---
 
 ⭐ Star this repo if it helped you learn CI/CD!
