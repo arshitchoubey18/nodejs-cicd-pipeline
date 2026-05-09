@@ -1,0 +1,14 @@
+{
+  "name": "node-cicd-demo",
+  "version": "1.0.0",
+  "description": "Demo Node.js app for GitHub Actions CI/CD",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "echo 'build step - no bundler needed'",
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
